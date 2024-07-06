@@ -1,0 +1,104 @@
+|---STRAIGHT TALK---|
+---Phone Inventory---
+Galaxy A23
+Samsung
+79
+214349903320482
+===========================
+|End of Inventory|
+***************************
+
+|---VERIZON---|
+---Phone Inventory---
+Pixel 6a
+Google
+199
+243524717543318
+===========================
+|End of Inventory|
+***************************
+
+|---TOTAL BY VERIZON---|
+---Phone Inventory---
+Galaxy A35
+Samsung
+139
+358921090479309
+===========================
+Galaxy A03s
+Samsung
+49
+722738956323587
+===========================
+|End of Inventory|
+***************************
+
+|---AT&T---|
+---Phone Inventory---
+iPhone 11
+Apple
+199
+148411576719802
+===========================
+|End of Inventory|
+***************************
+
+|---TRACFONE---|
+---Phone Inventory---
+C110
+Nokia
+39
+309756267598233
+===========================
+Moto G Play
+Motorola
+79
+531737836599627
+===========================
+|End of Inventory|
+***************************
+
+|---UNLOCKED---|
+---Phone Inventory---
+Ion V
+TCL
+49
+744318498515468
+===========================
+Moto G Play
+Motorola
+109
+510445741610269
+===========================
+|End of Inventory|
+***************************
+
+|---U.S. CELLULAR---|
+---Phone Inventory---
+iPhone 15
+Apple
+1399
+275766012249832
+===========================
+iPhone 12
+Apple
+249
+827472653442905
+===========================
+|End of Inventory|
+***************************
+
+|---SPRINT---|
+---Phone Inventory---
+Pixel 5
+Google
+159
+951795562469351
+===========================
+|End of Inventory|
+***************************
+
+|---TEST---|
+---Phone Inventory---
+|End of Inventory|
+***************************

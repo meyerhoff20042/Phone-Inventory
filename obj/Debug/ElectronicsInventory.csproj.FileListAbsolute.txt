@@ -1,0 +1,29 @@
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.exe.config
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.exe
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.pdb
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.AssemblyReference.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.Properties.Resources.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.GenerateResource.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.CoreCompileInputs.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.exe
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.pdb
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.phoneForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ListForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.WarningForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ElectronicsInventory.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ModelsMgmtForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.exe.config
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.exe
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\bin\Debug\ElectronicsInventory.pdb
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.AssemblyReference.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ElectronicsInventory.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ModelsMgmtForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.PhoneForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.ListForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.Properties.Resources.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.WarningForm.resources
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.GenerateResource.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.csproj.CoreCompileInputs.cache
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.exe
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.pdb
+C:\Users\brade\OneDrive\Documents\Braden Meyerhoff\Programming\Coding Projects\ElectronicsInventory\ElectronicsInventory\obj\Debug\ElectronicsInventory.UpdateForm.resources

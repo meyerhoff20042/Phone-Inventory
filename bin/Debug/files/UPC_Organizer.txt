@@ -1,0 +1,66 @@
+-----Apple-----
+iPhone 11
+217093817731
+iPhone 12
+217093816951
+iPhone 13
+217093816931
+iPhone 14
+217093815591
+iPhone 15
+217093818881
+-----Motorola-----
+Moto G 5G
+342190002960
+Moto G Play
+342190015550
+Moto G Power
+342190009880
+Moto G Pure
+342190010002
+Moto G Stylus
+342190004510
+-----Google-----
+Pixel 4
+547102938214
+Pixel 5
+547102932994
+Pixel 6a
+547102935124
+Pixel 7
+547102940114
+Pixel 8
+547102939524
+-----Samsung-----
+Galaxy A35
+392111089201
+Galaxy A53
+392111087550
+Galaxy A54
+392111089420
+Galaxy A23
+392111091100
+Galaxy A13
+392111095820
+Galaxy A03s
+392111095710
+-----TCL-----
+Ion V
+291820192812
+-----Nokia-----
+C110
+398402918231
+***End of UPCs***
+
+
+
+***Networks***
+Straight Talk
+Verizon
+Total by Verizon
+AT&T
+Tracfone
+Unlocked
+U.S. Cellular
+Sprint
+***End of Networks***
